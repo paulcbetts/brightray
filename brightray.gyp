@@ -195,6 +195,10 @@
                       'mf.dll',
                       'mfplat.dll',
                       'mfreadwrite.dll',
+                      # bluetooth.gyp:
+                      'BluetoothApis.dll',
+                      'Bthprops.cpl',
+                      'setupapi.dll',
                     ],
                   },
                 },
